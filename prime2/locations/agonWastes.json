@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Agon Wastes",
+    "children": [
+      {
+        "name": "Agon Energy Controller",
+        "features": [
+          "energyController",
+          "lightEnergyTransport",
+          "lore",
+          "luminothCorpse"
+        ]
+      },
+      {
+        "name": "Agon Temple",
+        "features": ["boss", "temple"]
+      },
+      {
+        "name": "Bioenergy Production",
+        "features": ["spider"]
+      },
+      {
+        "name": "Central Mining Station",
+        "features": ["keybearer", "luminothCorpse", "spider"]
+      },
+      {
+        "name": "Command Center",
+        "features": ["elevator", "morph", "portal"]
+      },
+      {
+        "name": "Main Reactor",
+        "features": [
+          "elevator",
+          "keybearer",
+          "luminothCorpse",
+          "phazon",
+          "spider"
+        ]
+      },
+      {
+        "name": "Mine Shaft",
+        "features": ["morph"]
+      },
+      {
+        "name": "Mining Plaza",
+        "features": ["echoLock", "lore", "translatorGate"]
+      },
+      {
+        "name": "Mining Station A",
+        "features": ["lore", "orbCannon", "spider", "translatorGate"]
+      },
+      {
+        "name": "Mining Station Access",
+        "features": ["morph", "orbCannon"]
+      },
+      {
+        "name": "Mining Station B",
+        "features": [
+          "bombSlot",
+          "halfPipe",
+          "lore",
+          "luminothCorpse",
+          "orbCannon",
+          "portal"
+        ]
+      },
+      {
+        "name": "Portal Access A",
+        "features": ["luminothCorpse", "morph", "orbCannon"]
+      },
+      {
+        "name": "Sand Cache",
+        "features": []
+      },
+      {
+        "name": "Sand Processing",
+        "features": ["bombSlot", "halfPipe"]
+      },
+      {
+        "name": "Sandcanyon",
+        "features": ["abyss", "orbCannon"]
+      },
+      {
+        "name": "Storage A",
+        "features": []
+      },
+      {
+        "name": "Storage B",
+        "features": []
+      },
+      {
+        "name": "Storage C",
+        "features": []
+      },
+      {
+        "name": "Storage D",
+        "features": []
+      },
+      {
+        "name": "Transport Center",
+        "features": ["bombSlot", "halfPipe", "portal"]
+      },
+      {
+        "name": "Ventilation Area A",
+        "features": ["morph"]
+      }
+    ]
+  }
+]

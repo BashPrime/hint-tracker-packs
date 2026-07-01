@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Dark Agon Wastes",
+    "children": [
+      {
+        "name": "Battleground",
+        "features": ["flyingIngCache"]
+      },
+      {
+        "name": "Crossroads",
+        "features": ["halfPipe"]
+      },
+      {
+        "name": "Dark Agon Temple",
+        "features": ["boss", "temple"]
+      },
+      {
+        "name": "Dark Oasis",
+        "features": ["flyingIngCache", "phazon", "portal", "water"]
+      },
+      {
+        "name": "Doomed Entry",
+        "features": ["phazon"]
+      },
+      {
+        "name": "Feeding Pit",
+        "features": ["phazon", "water"]
+      },
+      {
+        "name": "Ing Cache 1",
+        "features": ["luminothCorpse"]
+      },
+      {
+        "name": "Ing Cache 2",
+        "features": []
+      },
+      {
+        "name": "Ing Cache 4",
+        "features": ["morph"]
+      },
+      {
+        "name": "Judgment Pit",
+        "features": ["boss"]
+      },
+      {
+        "name": "Junction Site",
+        "features": ["bombSlot", "morph", "spider"]
+      },
+      {
+        "name": "Trial Tunnel",
+        "features": []
+      },
+      {
+        "name": "Warrior's Walk",
+        "features": ["phazon"]
+      }
+    ]
+  }
+]
