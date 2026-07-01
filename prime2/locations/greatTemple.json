@@ -1,0 +1,21 @@
+{
+  "name": "Great Temple",
+  "children": [
+    {
+      "name": "Main Energy Controller",
+      "features": ["energyController", "lightEnergyTransport", "lore"]
+    },
+    {
+      "name": "Temple Sanctuary",
+      "features": ["boss", "temple", "translatorGate"]
+    },
+    {
+      "name": "Transport A Access",
+      "features": []
+    },
+    {
+      "name": "Transport B Access",
+      "features": ["morph"]
+    }
+  ]
+}
