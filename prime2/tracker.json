@@ -6,6 +6,7 @@
   "name": "Metroid Prime 2 Hints",
   "gameName": "Metroid Prime 2: Echoes",
   "description": "Metroid Prime 2 Hint Tracker package",
+  "cover": "images/cover.webp",
   "items": [
     "items.json"
   ],
