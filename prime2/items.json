@@ -3,20 +3,19 @@
     "name": "Missile Launcher",
     "code": "missileLauncher",
     "type": "progression",
-    "features": ["chozo", "major", "missile", "missile_related", "ordnance"]
+    "features": ["chozo", "missile", "missileRelated"]
   },
   {
     "name": "Super Missile",
     "code": "super",
     "type": "progression",
     "features": [
-      "beam_related",
-      "charge_combo",
+      "beamRelated",
+      "chargeCombo",
       "chozo",
-      "major",
+
       "missile",
-      "missile_related",
-      "ordnance"
+      "missileRelated"
     ]
   },
   {
@@ -24,14 +23,13 @@
     "code": "darkburst",
     "type": "progression",
     "features": [
-      "beam_related",
-      "charge_combo",
+      "beamRelated",
+      "chargeCombo",
       "dark",
       "luminoth",
-      "major",
+
       "missile",
-      "missile_related",
-      "ordnance"
+      "missileRelated"
     ]
   },
   {
@@ -39,14 +37,13 @@
     "code": "sunburst",
     "type": "progression",
     "features": [
-      "beam_related",
-      "charge_combo",
+      "beamRelated",
+      "chargeCombo",
       "light",
       "luminoth",
-      "major",
+
       "missile",
-      "missile_related",
-      "ordnance"
+      "missileRelated"
     ]
   },
   {
@@ -54,345 +51,285 @@
     "code": "sonicBoom",
     "type": "progression",
     "features": [
-      "beam_related",
-      "charge_combo",
+      "beamRelated",
+      "chargeCombo",
       "dark",
       "light",
       "luminoth",
-      "major",
+
       "missile",
-      "missile_related",
-      "ordnance"
+      "missileRelated"
     ]
   },
   {
     "name": "Seeker Launcher",
     "code": "seeker",
     "type": "progression",
-    "features": ["luminoth", "major", "missile", "missile_related", "ordnance"]
+    "features": ["luminoth", "missile", "missileRelated"]
   },
   {
     "name": "Power Beam",
     "code": "powerBeam",
     "type": "progression",
-    "features": ["beam", "beam_related", "chozo", "major", "ordnance"]
+    "features": ["beam", "beamRelated", "chozo"]
   },
   {
     "name": "Charge Beam",
     "code": "chargeBeam",
     "type": "progression",
-    "features": ["beam", "beam_related", "chozo", "major", "ordnance"]
+    "features": ["beam", "beamRelated", "chozo"]
   },
   {
     "name": "Dark Beam",
     "code": "darkBeam",
     "type": "progression",
-    "features": [
-      "beam",
-      "beam_related",
-      "dark",
-      "luminoth",
-      "major",
-      "targeting"
-    ]
+    "features": ["beam", "beamRelated", "dark", "luminoth"]
   },
   {
     "name": "Light Beam",
     "code": "lightBeam",
     "type": "progression",
-    "features": [
-      "beam",
-      "beam_related",
-      "light",
-      "luminoth",
-      "major",
-      "targeting"
-    ]
+    "features": ["beam", "beamRelated", "light", "luminoth"]
   },
   {
     "name": "Annihilator Beam",
     "code": "annihilator",
     "type": "progression",
-    "features": [
-      "beam",
-      "beam_related",
-      "dark",
-      "light",
-      "luminoth",
-      "major",
-      "targeting"
-    ]
+    "features": ["beam", "beamRelated", "dark", "light", "luminoth"]
   },
   {
     "name": "Combat Visor",
     "code": "combatVisor",
     "type": "progression",
-    "features": ["chozo", "hud", "major", "targeting", "visor"]
+    "features": ["chozo", "hud", "visor"]
   },
   {
     "name": "Scan Visor",
     "code": "scanVisor",
     "type": "progression",
-    "features": ["chozo", "hud", "major", "targeting", "visor"]
+    "features": ["chozo", "hud", "visor"]
   },
   {
     "name": "Dark Visor",
     "code": "darkVisor",
     "type": "progression",
-    "features": ["dark", "hud", "luminoth", "major", "targeting", "visor"]
+    "features": ["dark", "hud", "luminoth", "visor"]
   },
   {
     "name": "Echo Visor",
     "code": "echoVisor",
     "type": "progression",
-    "features": ["hud", "luminoth", "major", "targeting", "visor"]
+    "features": ["hud", "luminoth", "visor"]
   },
   {
     "name": "Space Jump Boots",
     "code": "sj",
     "type": "progression",
-    "features": ["chassis", "chozo", "major", "movement"]
+    "features": ["chozo", "movement"]
   },
   {
     "name": "Gravity Boost",
     "code": "gravity",
     "type": "progression",
-    "features": ["chassis", "luminoth", "major", "movement"]
+    "features": ["luminoth", "movement"]
   },
   {
     "name": "Grapple Beam",
     "code": "grapple",
     "type": "progression",
-    "features": ["chassis", "chozo", "major", "movement"]
+    "features": ["chozo", "movement"]
   },
   {
     "name": "Screw Attack",
     "code": "screw",
     "type": "progression",
-    "features": ["chassis", "chozo", "major", "movement"]
+    "features": ["chozo", "movement"]
   },
   {
     "name": "Dark Suit",
     "code": "darkSuit",
     "type": "progression",
-    "features": ["chassis", "dark", "life_support", "luminoth", "major", "suit"]
+    "features": ["dark", "lifeSupport", "luminoth", "suit"]
   },
   {
     "name": "Light Suit",
     "code": "lightSuit",
     "type": "progression",
-    "features": [
-      "chassis",
-      "life_support",
-      "light",
-      "luminoth",
-      "major",
-      "suit"
-    ]
+    "features": ["lifeSupport", "light", "luminoth", "suit"]
   },
   {
     "name": "Morph Ball",
     "code": "morph",
     "type": "progression",
-    "features": [
-      "chassis",
-      "chozo",
-      "major",
-      "morph_ball",
-      "morph_ball_related"
-    ]
+    "features": ["chozo", "morphBall", "morphBallRelated"]
   },
   {
     "name": "Morph Ball Bomb",
     "code": "bombs",
     "type": "progression",
-    "features": [
-      "chozo",
-      "major",
-      "morph_ball",
-      "morph_ball_related",
-      "ordnance"
-    ]
+    "features": ["chozo", "morphBall", "morphBallRelated"]
   },
   {
     "name": "Power Bomb",
     "code": "powerBomb",
     "type": "progression",
-    "features": [
-      "chozo",
-      "major",
-      "morph_ball",
-      "morph_ball_related",
-      "ordnance"
-    ]
+    "features": ["chozo", "morphBall", "morphBallRelated"]
   },
   {
     "name": "Boost Ball",
     "code": "boost",
     "type": "progression",
-    "features": [
-      "chassis",
-      "chozo",
-      "major",
-      "morph_ball",
-      "morph_ball_related"
-    ]
+    "features": ["chozo", "morphBall", "morphBallRelated"]
   },
   {
     "name": "Spider Ball",
     "code": "spider",
     "type": "progression",
-    "features": [
-      "chassis",
-      "chozo",
-      "major",
-      "morph_ball",
-      "morph_ball_related"
-    ]
+    "features": ["chozo", "morphBall", "morphBallRelated"]
   },
   {
     "name": "Violet Translator",
     "code": "violet",
     "type": "progression",
-    "features": ["hud", "luminoth", "major", "translator", "targeting"]
+    "features": ["hud", "luminoth", "translator"]
   },
   {
     "name": "Amber Translator",
     "code": "amber",
     "type": "progression",
-    "features": ["hud", "luminoth", "major", "translator", "targeting"]
+    "features": ["hud", "luminoth", "translator"]
   },
   {
     "name": "Emerald Translator",
     "code": "emerald",
     "type": "progression",
-    "features": ["hud", "luminoth", "major", "translator", "targeting"]
+    "features": ["hud", "luminoth", "translator"]
   },
   {
     "name": "Cobalt Translator",
     "code": "cobalt",
     "type": "progression",
-    "features": ["hud", "luminoth", "major", "translator", "targeting"]
+    "features": ["hud", "luminoth", "translator"]
   },
   {
     "name": "Progressive Suit",
     "code": "progSuit",
     "type": "progression",
-    "features": ["chassis", "life_support", "luminoth", "major", "suit"]
+    "features": ["lifeSupport", "luminoth", "suit"]
   },
   {
     "name": "Progressive Grapple",
     "code": "progGrapple",
     "type": "progression",
-    "features": ["chassis", "chozo", "major", "movement"]
+    "features": ["chozo", "movement"]
   },
   {
     "name": "Dark Agon Key 1",
     "code": "dak1",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Dark Agon Key 2",
     "code": "dak2",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Dark Agon Key 3",
     "code": "dak3",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Dark Torvus Key 1",
     "code": "dtk1",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Dark Torvus Key 2",
     "code": "dtk2",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Dark Torvus Key 3",
     "code": "dtk3",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Ing Hive Key 1",
     "code": "ihk1",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Ing Hive Key 2",
     "code": "ihk2",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Ing Hive Key 3",
     "code": "ihk3",
     "type": "progression",
-    "features": ["key", "templeKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 1",
     "code": "stk1",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 2",
     "code": "stk2",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 3",
     "code": "stk3",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 4",
     "code": "stk4",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 5",
     "code": "stk5",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 6",
     "code": "stk6",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 7",
     "code": "stk7",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 8",
     "code": "stk8",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Sky Temple Key 9",
     "code": "stk9",
     "type": "progression",
-    "features": ["key", "skyTempleKey"]
+    "features": ["key"]
   },
   {
     "name": "Cannon Ball",
@@ -420,43 +357,36 @@
     "name": "Energy Tank",
     "code": "eTank",
     "type": "filler",
-    "features": ["chassis", "chozo", "energy_tank", "life_support"]
+    "features": ["chozo", "lifeSupport"]
   },
   {
     "name": "Missile Expansion",
     "code": "missExp",
     "type": "filler",
-    "features": ["chozo", "expansion", "missile_related", "ordnance"]
+    "features": ["chozo", "missileRelated"]
   },
   {
     "name": "Beam Ammo Expansion",
     "code": "beamAmmo",
     "type": "filler",
-    "features": [
-      "beam_related",
-      "expansion",
-      "luminoth",
-      "targeting",
-      "dark",
-      "light"
-    ]
+    "features": ["beamRelated", "luminoth", "dark", "light"]
   },
   {
     "name": "Light Ammo Expansion",
     "code": "lightAmmo",
     "type": "filler",
-    "features": ["beam_related", "expansion", "luminoth", "targeting", "light"]
+    "features": ["beamRelated", "luminoth", "light"]
   },
   {
     "name": "Dark Ammo Expansion",
     "code": "darkAmmo",
     "type": "filler",
-    "features": ["beam_related", "expansion", "luminoth", "targeting", "dark"]
+    "features": ["beamRelated", "luminoth", "dark"]
   },
   {
     "name": "Power Bomb Expansion",
     "code": "pbExp",
     "type": "filler",
-    "features": ["chozo", "expansion", "morph_ball_related", "ordnance"]
+    "features": ["chozo", "morphBallRelated"]
   }
 ]
