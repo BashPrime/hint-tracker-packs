@@ -41,12 +41,12 @@
   },
   {
     "name": "Missile Related",
-    "code": "missRelated",
+    "code": "missileRelated",
     "type": "item"
   },
   {
     "name": "Morph Ball Related",
-    "code": "morphRelated",
+    "code": "morphBallRelated",
     "type": "item"
   },
   {
@@ -101,17 +101,17 @@
   },
   {
     "name": "in a Flying Ing Cache",
-    "code": "ingCache",
+    "code": "flyingIngCache",
     "type": "location"
   },
   {
     "name": "in a Morph Ball tunnel",
-    "code": "morphTunnel",
+    "code": "morph",
     "type": "location"
   },
   {
     "name": "in a regional Temple",
-    "code": "inTemple",
+    "code": "temple",
     "type": "location"
   },
   {
@@ -121,17 +121,17 @@
   },
   {
     "name": "near a Boost Spinner",
-    "code": "spinner",
+    "code": "boostSpinner",
     "type": "location"
   },
   {
     "name": "near a Dark Visor Lock",
-    "code": "nearDarkLock",
+    "code": "darkVisorLock",
     "type": "location"
   },
   {
     "name": "near a Grapple Point",
-    "code": "grapplePoint",
+    "code": "grapple",
     "type": "location"
   },
   {
@@ -141,77 +141,77 @@
   },
   {
     "name": "near a Keybearer corpse",
-    "code": "keyCorpse",
+    "code": "keybearer",
     "type": "location"
   },
   {
     "name": "near a Kinetic Orb Cannon",
-    "code": "nearCannon",
+    "code": "orbCannon",
     "type": "location"
   },
   {
     "name": "near a Light Energy Transport",
-    "code": "nearLightEnergy",
+    "code": "lightEnergyTransport",
     "type": "location"
   },
   {
     "name": "near a Luminoth corpse",
-    "code": "luminothCorpse",
+    "code": "luminoth",
     "type": "location"
   },
   {
     "name": "near a Portal",
-    "code": "nearPortal",
+    "code": "portal",
     "type": "location"
   },
   {
     "name": "near a Screw Attack Wall",
-    "code": "nearScrew",
+    "code": "screwAttackWall",
     "type": "location"
   },
   {
     "name": "near a Spider Track",
-    "code": "nearSpider",
+    "code": "spider",
     "type": "location"
   },
   {
     "name": "near a Translator Gate",
-    "code": "nearTransGate",
+    "code": "translatorGate",
     "type": "location"
   },
   {
     "name": "near an Echo Visor Lock",
-    "code": "nearEchoLock",
+    "code": "echoLock",
     "type": "location"
   },
   {
     "name": "near an Energy Controller",
-    "code": "nearController",
+    "code": "energyController",
     "type": "location"
   },
   {
     "name": "near an elevator unit",
-    "code": "nearElevator",
+    "code": "elevator",
     "type": "location"
   },
   {
     "name": "near exposed Phazon",
-    "code": "nearPhazon",
+    "code": "phazon",
     "type": "location"
   },
   {
     "name": "near some Luminoth lore",
-    "code": "nearLore",
+    "code": "lore",
     "type": "location"
   },
   {
     "name": "overtop an Abyss",
-    "code": "overAbyss",
+    "code": "abyss",
     "type": "location"
   },
   {
     "name": "submerged in water",
-    "code": "inWater",
+    "code": "water",
     "type": "location"
   }
 ]
