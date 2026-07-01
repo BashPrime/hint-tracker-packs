@@ -1,0 +1,99 @@
+{
+  "name": "Torvus Bog",
+  "children": [
+    {
+      "name": "Abandoned Worksite",
+      "features": ["grapple"]
+    },
+    {
+      "name": "Forgotten Bridge",
+      "features": ["bombSlot", "boostSpinner", "portal"]
+    },
+    {
+      "name": "Gathering Hall",
+      "features": [
+        "bombSlot",
+        "boostSpinner",
+        "grapple",
+        "halfPipe",
+        "lore",
+        "orbCannon",
+        "portal",
+        "spider"
+      ]
+    },
+    {
+      "name": "Great Bridge",
+      "features": ["morph", "orbCannon", "translatorGate"]
+    },
+    {
+      "name": "Hydrochamber Storage",
+      "features": ["boss", "water"]
+    },
+    {
+      "name": "Hydrodynamo Station",
+      "features": ["water"]
+    },
+    {
+      "name": "Meditation Vista",
+      "features": ["abyss", "portal"]
+    },
+    {
+      "name": "Path of Roots",
+      "features": ["grapple", "lore"]
+    },
+    {
+      "name": "Plaza Access",
+      "features": ["bombSlot", "halfPipe", "morph"]
+    },
+    {
+      "name": "Portal Chamber (Light)",
+      "features": ["portal"]
+    },
+    {
+      "name": "Temple Access (Torvus)",
+      "features": ["morph"]
+    },
+    {
+      "name": "Torvus Energy Controller",
+      "features": [
+        "energyController",
+        "lightEnergyTransport",
+        "lore",
+        "luminothCorpse"
+      ]
+    },
+    {
+      "name": "Torvus Grove",
+      "features": ["halfPipe"]
+    },
+    {
+      "name": "Torvus Lagoon",
+      "features": ["keybearer", "luminothCorpse", "water"]
+    },
+    {
+      "name": "Torvus Plaza",
+      "features": ["halfPipe", "orbCannon", "spider"]
+    },
+    {
+      "name": "Torvus Temple",
+      "features": ["elevator", "temple", "translatorGate"]
+    },
+    {
+      "name": "Training Chamber",
+      "features": ["bombSlot", "boostSpinner", "lore", "spider", "water"]
+    },
+    {
+      "name": "Transit Tunnel East",
+      "features": ["bombSlot", "morph", "water"]
+    },
+    {
+      "name": "Transit Tunnel South",
+      "features": ["bombSlot", "morph", "water"]
+    },
+    {
+      "name": "Underground Tunnel",
+      "features": ["lore", "morph"]
+    }
+  ]
+}
