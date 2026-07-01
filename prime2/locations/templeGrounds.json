@@ -1,0 +1,53 @@
+{
+  "name": "Temple Grounds",
+  "children": [
+    {
+      "name": "Communication Area",
+      "features": []
+    },
+    {
+      "name": "Dynamo Chamber",
+      "features": []
+    },
+    {
+      "name": "Fortress Transport Access",
+      "features": ["lightEnergyTransport", "lore"]
+    },
+    {
+      "name": "GFMC Compound",
+      "features": ["abyss", "orbCannon", "translatorGate"]
+    },
+    {
+      "name": "Grand Windchamber",
+      "features": ["abyss", "boostSpinner", "grapple", "orbCannon", "portal"]
+    },
+    {
+      "name": "Hall of Honored Dead",
+      "features": ["boostSpinner", "luminothCorpse", "portal"]
+    },
+    {
+      "name": "Hive Chamber A",
+      "features": ["boss"]
+    },
+    {
+      "name": "Hive Chamber B",
+      "features": ["morph"]
+    },
+    {
+      "name": "Storage Cavern B",
+      "features": []
+    },
+    {
+      "name": "Temple Assembly Site",
+      "features": ["morph", "portal", "translatorGate"]
+    },
+    {
+      "name": "Transport to Agon Wastes",
+      "features": ["abyss", "elevator", "lore"]
+    },
+    {
+      "name": "Windchamber Gateway",
+      "features": ["abyss", "grapple", "orbCannon"]
+    }
+  ]
+}
