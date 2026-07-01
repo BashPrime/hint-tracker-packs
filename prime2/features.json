@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Visor",
+    "code": "visor",
+    "type": "feature"
+  },
+  {
+    "name": "Suit",
+    "code": "suit",
+    "type": "feature"
+  },
+  {
+    "name": "Beam",
+    "code": "beam",
+    "type": "feature"
+  },
+  {
+    "name": "Morph Ball system",
+    "code": "morphBall",
+    "type": "feature"
+  },
+  {
+    "name": "Movement system",
+    "code": "movement",
+    "type": "feature"
+  },
+  {
+    "name": "Missile system",
+    "code": "missile",
+    "type": "feature"
+  },
+  {
+    "name": "Charge Combo",
+    "code": "chargeCombo",
+    "type": "feature"
+  },
+  {
+    "name": "Translator",
+    "code": "translator",
+    "type": "feature"
+  },
+  {
+    "name": "Missile Related",
+    "code": "missRelated",
+    "type": "feature"
+  },
+  {
+    "name": "Morph Ball Related",
+    "code": "morphRelated",
+    "type": "feature"
+  },
+  {
+    "name": "Beam Related",
+    "code": "beamRelated",
+    "type": "feature"
+  },
+  {
+    "name": "Life Support",
+    "code": "lifeSupport",
+    "type": "feature"
+  },
+  {
+    "name": "HUD System",
+    "code": "hud",
+    "type": "feature"
+  },
+  {
+    "name": "Key",
+    "code": "key",
+    "type": "feature"
+  },
+  {
+    "name": "Chozo technology",
+    "code": "chozo",
+    "type": "feature"
+  },
+  {
+    "name": "Luminoth technology",
+    "code": "luminoth",
+    "type": "feature"
+  },
+  {
+    "name": "Light-aligned upgrade",
+    "code": "light",
+    "type": "feature"
+  },
+  {
+    "name": "Dark-aligned upgrade",
+    "code": "dark",
+    "type": "feature"
+  },
+  {
+    "name": "Cheater's delight",
+    "code": "cheat",
+    "type": "feature"
+  }
+]
