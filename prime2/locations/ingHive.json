@@ -1,0 +1,62 @@
+{
+  "name": "Ing Hive",
+  "children": [
+    {
+      "name": "Aerial Training Site",
+      "features": [
+        "abyss",
+        "portal",
+        "screwAttackWall"
+      ]
+    },
+    {
+      "name": "Culling Chamber",
+      "features": [
+        "morph",
+        "phazon",
+        "portal",
+        "spider"
+      ]
+    },
+    {
+      "name": "Hazing Cliff",
+      "features": [
+        "abyss"
+      ]
+    },
+    {
+      "name": "Hive Dynamo Works",
+      "features": [
+        "abyss",
+        "darkVisorLock",
+        "flyingIngCache",
+        "grapple",
+        "portal",
+        "spider"
+      ]
+    },
+    {
+      "name": "Hive Entrance",
+      "features": [
+        "abyss",
+        "flyingIngCache",
+        "lightEnergyTransport"
+      ]
+    },
+    {
+      "name": "Hive Gyro Chamber",
+      "features": [
+        "spider"
+      ]
+    },
+    {
+      "name": "Hive Temple",
+      "features": [
+        "boss",
+        "elevator",
+        "spider",
+        "temple"
+      ]
+    }
+  ]
+}
