@@ -2,216 +2,216 @@
   {
     "name": "Visor",
     "code": "visor",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Suit",
     "code": "suit",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Beam",
     "code": "beam",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Morph Ball System",
     "code": "morphBall",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Movement System",
     "code": "movement",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Missile System",
     "code": "missile",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Charge Combo",
     "code": "chargeCombo",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Translator",
     "code": "translator",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Missile Related",
     "code": "missileRelated",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Morph Ball Related",
     "code": "morphBallRelated",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Beam Related",
     "code": "beamRelated",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Life Support",
     "code": "lifeSupport",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "HUD System",
     "code": "hud",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Key",
     "code": "key",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Chozo technology",
     "code": "chozo",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Luminoth technology",
     "code": "luminoth",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Light-aligned upgrade",
     "code": "light",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Dark-aligned upgrade",
     "code": "dark",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "Cheater's delight",
     "code": "cheat",
-    "type": "item"
+    "type": "feature:item"
   },
   {
     "name": "guarded by a Boss",
     "code": "boss",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "in a Flying Ing Cache",
     "code": "flyingIngCache",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "in a Morph Ball tunnel",
     "code": "morph",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "in a regional Temple",
     "code": "temple",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Bomb Slot",
     "code": "bombSlot",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Boost Spinner",
     "code": "boostSpinner",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Dark Visor Lock",
     "code": "darkVisorLock",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Grapple Point",
     "code": "grapple",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Half-Pipe",
     "code": "halfPipe",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Keybearer corpse",
     "code": "keybearer",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Kinetic Orb Cannon",
     "code": "orbCannon",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Light Energy Transport",
     "code": "lightEnergyTransport",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Luminoth corpse",
     "code": "luminoth",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Portal",
     "code": "portal",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Screw Attack Wall",
     "code": "screwAttackWall",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Spider Track",
     "code": "spider",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near a Translator Gate",
     "code": "translatorGate",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near an Echo Visor Lock",
     "code": "echoLock",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near an Energy Controller",
     "code": "energyController",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near an elevator unit",
     "code": "elevator",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near exposed Phazon",
     "code": "phazon",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "near some Luminoth lore",
     "code": "lore",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "overtop an Abyss",
     "code": "abyss",
-    "type": "location"
+    "type": "feature:location"
   },
   {
     "name": "submerged in water",
     "code": "water",
-    "type": "location"
+    "type": "feature:location"
   }
 ]
