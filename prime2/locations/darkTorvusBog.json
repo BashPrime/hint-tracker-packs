@@ -1,53 +1,55 @@
-{
-  "name": "Dark Torvus Bog",
-  "children": [
-    {
-      "name": "Cache A",
-      "features": []
-    },
-    {
-      "name": "Cache B",
-      "features": []
-    },
-    {
-      "name": "Dark Torvus Arena",
-      "features": ["boss", "halfPipe", "luminothCorpse"]
-    },
-    {
-      "name": "Dark Torvus Temple",
-      "features": ["boss", "elevator", "grapple", "temple"]
-    },
-    {
-      "name": "Dungeon",
-      "features": ["flyingIngCache", "portal", "water"]
-    },
-    {
-      "name": "Poisoned Bog",
-      "features": ["flyingIngCache", "water"]
-    },
-    {
-      "name": "Putrid Alcove",
-      "features": []
-    },
-    {
-      "name": "Sacrificial Chamber",
-      "features": ["boss", "grapple"]
-    },
-    {
-      "name": "Undertemple Access",
-      "features": ["portal"]
-    },
-    {
-      "name": "Undertemple",
-      "features": ["bombSlot", "boss", "portal", "screwAttackWall", "spider"]
-    },
-    {
-      "name": "Undertransit One",
-      "features": ["morph"]
-    },
-    {
-      "name": "Venomous Pond",
-      "features": ["grapple"]
-    }
-  ]
-}
+[
+  {
+    "name": "Dark Torvus Bog",
+    "children": [
+      {
+        "name": "Cache A",
+        "features": []
+      },
+      {
+        "name": "Cache B",
+        "features": []
+      },
+      {
+        "name": "Dark Torvus Arena",
+        "features": ["boss", "halfPipe", "luminothCorpse"]
+      },
+      {
+        "name": "Dark Torvus Temple",
+        "features": ["boss", "elevator", "grapple", "temple"]
+      },
+      {
+        "name": "Dungeon",
+        "features": ["flyingIngCache", "portal", "water"]
+      },
+      {
+        "name": "Poisoned Bog",
+        "features": ["flyingIngCache", "water"]
+      },
+      {
+        "name": "Putrid Alcove",
+        "features": []
+      },
+      {
+        "name": "Sacrificial Chamber",
+        "features": ["boss", "grapple"]
+      },
+      {
+        "name": "Undertemple Access",
+        "features": ["portal"]
+      },
+      {
+        "name": "Undertemple",
+        "features": ["bombSlot", "boss", "portal", "screwAttackWall", "spider"]
+      },
+      {
+        "name": "Undertransit One",
+        "features": ["morph"]
+      },
+      {
+        "name": "Venomous Pond",
+        "features": ["grapple"]
+      }
+    ]
+  }
+]

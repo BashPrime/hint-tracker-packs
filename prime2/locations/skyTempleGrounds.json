@@ -1,33 +1,35 @@
-{
-  "name": "Sky Temple Grounds",
-  "children": [
-    {
-      "name": "Accursed Lake",
-      "features": ["flyingIngCache"]
-    },
-    {
-      "name": "Defiled Shrine",
-      "features": ["flyingIngCache"]
-    },
-    {
-      "name": "Ing Reliquary",
-      "features": ["flyingIngCache"]
-    },
-    {
-      "name": "Phazon Grounds",
-      "features": ["abyss", "phazon"]
-    },
-    {
-      "name": "Plain of Dark Worship",
-      "features": ["luminothCorpse", "portal"]
-    },
-    {
-      "name": "Profane Path",
-      "features": ["echoLock", "portal"]
-    },
-    {
-      "name": "War Ritual Grounds",
-      "features": ["darkVisorLock", "halfPipe"]
-    }
-  ]
-}
+[
+  {
+    "name": "Sky Temple Grounds",
+    "children": [
+      {
+        "name": "Accursed Lake",
+        "features": ["flyingIngCache"]
+      },
+      {
+        "name": "Defiled Shrine",
+        "features": ["flyingIngCache"]
+      },
+      {
+        "name": "Ing Reliquary",
+        "features": ["flyingIngCache"]
+      },
+      {
+        "name": "Phazon Grounds",
+        "features": ["abyss", "phazon"]
+      },
+      {
+        "name": "Plain of Dark Worship",
+        "features": ["luminothCorpse", "portal"]
+      },
+      {
+        "name": "Profane Path",
+        "features": ["echoLock", "portal"]
+      },
+      {
+        "name": "War Ritual Grounds",
+        "features": ["darkVisorLock", "halfPipe"]
+      }
+    ]
+  }
+]

@@ -1,154 +1,116 @@
-{
-  "name": "Sanctuary Fortress",
-  "children": [
-    {
-      "name": "Aerie",
-      "features": [
-        "abyss",
-        "boss",
-        "echoLock",
-        "elevator",
-        "portal"
-      ]
-    },
-    {
-      "name": "Central Area Transport West",
-      "features": [
-        "morph",
-        "orbCannon"
-      ]
-    },
-    {
-      "name": "Dynamo Works",
-      "features": [
-        "bombSlot",
-        "boss",
-        "halfPipe",
-        "keybearer",
-        "luminothCorpse",
-        "morph",
-        "portal",
-        "spider"
-      ]
-    },
-    {
-      "name": "Hall of Combat Mastery",
-      "features": [
-        "bombSlot",
-        "lore",
-        "morph",
-        "phazon",
-        "portal",
-        "spider"
-      ]
-    },
-    {
-      "name": "Main Gyro Chamber",
-      "features": [
-        "bombSlot",
-        "boostSpinner",
-        "echoLock",
-        "elevator",
-        "lore",
-        "orbCannon",
-        "spider"
-      ]
-    },
-    {
-      "name": "Main Research",
-      "features": [
-        "echoLock",
-        "lore",
-        "portal",
-        "spider"
-      ]
-    },
-    {
-      "name": "Reactor Core",
-      "features": [
-        "orbCannon",
-        "spider",
-        "translatorGate"
-      ]
-    },
-    {
-      "name": "Sanctuary Energy Controller",
-      "features": [
-        "abyss",
-        "energyController",
-        "lightEnergyTransport",
-        "lore",
-        "luminothCorpse"
-      ]
-    },
-    {
-      "name": "Sanctuary Entrance",
-      "features": [
-        "abyss",
-        "elevator",
-        "keybearer",
-        "lore",
-        "luminothCorpse",
-        "orbCannon",
-        "spider"
-      ]
-    },
-    {
-      "name": "Sanctuary Map Station",
-      "features": [
-        "lightEnergyTransport"
-      ]
-    },
-    {
-      "name": "Sentinel's Path",
-      "features": [
-        "echoLock"
-      ]
-    },
-    {
-      "name": "Temple Access (Sanctuary)",
-      "features": [
-        "boostSpinner",
-        "darkVisorLock",
-        "echoLock",
-        "morph",
-        "orbCannon"
-      ]
-    },
-    {
-      "name": "Transit Station",
-      "features": [
-        "portal",
-        "spider"
-      ]
-    },
-    {
-      "name": "Vault",
-      "features": [
-        "abyss",
-        "bombSlot",
-        "boostSpinner",
-        "portal"
-      ]
-    },
-    {
-      "name": "Watch Station Access",
-      "features": [
-        "abyss",
-        "grapple"
-      ]
-    },
-    {
-      "name": "Watch Station",
-      "features": [
-        "abyss",
-        "bombSlot",
-        "lore",
-        "morph",
-        "orbCannon",
-        "portal",
-        "spider"
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Sanctuary Fortress",
+    "children": [
+      {
+        "name": "Aerie",
+        "features": ["abyss", "boss", "echoLock", "elevator", "portal"]
+      },
+      {
+        "name": "Central Area Transport West",
+        "features": ["morph", "orbCannon"]
+      },
+      {
+        "name": "Dynamo Works",
+        "features": [
+          "bombSlot",
+          "boss",
+          "halfPipe",
+          "keybearer",
+          "luminothCorpse",
+          "morph",
+          "portal",
+          "spider"
+        ]
+      },
+      {
+        "name": "Hall of Combat Mastery",
+        "features": ["bombSlot", "lore", "morph", "phazon", "portal", "spider"]
+      },
+      {
+        "name": "Main Gyro Chamber",
+        "features": [
+          "bombSlot",
+          "boostSpinner",
+          "echoLock",
+          "elevator",
+          "lore",
+          "orbCannon",
+          "spider"
+        ]
+      },
+      {
+        "name": "Main Research",
+        "features": ["echoLock", "lore", "portal", "spider"]
+      },
+      {
+        "name": "Reactor Core",
+        "features": ["orbCannon", "spider", "translatorGate"]
+      },
+      {
+        "name": "Sanctuary Energy Controller",
+        "features": [
+          "abyss",
+          "energyController",
+          "lightEnergyTransport",
+          "lore",
+          "luminothCorpse"
+        ]
+      },
+      {
+        "name": "Sanctuary Entrance",
+        "features": [
+          "abyss",
+          "elevator",
+          "keybearer",
+          "lore",
+          "luminothCorpse",
+          "orbCannon",
+          "spider"
+        ]
+      },
+      {
+        "name": "Sanctuary Map Station",
+        "features": ["lightEnergyTransport"]
+      },
+      {
+        "name": "Sentinel's Path",
+        "features": ["echoLock"]
+      },
+      {
+        "name": "Temple Access (Sanctuary)",
+        "features": [
+          "boostSpinner",
+          "darkVisorLock",
+          "echoLock",
+          "morph",
+          "orbCannon"
+        ]
+      },
+      {
+        "name": "Transit Station",
+        "features": ["portal", "spider"]
+      },
+      {
+        "name": "Vault",
+        "features": ["abyss", "bombSlot", "boostSpinner", "portal"]
+      },
+      {
+        "name": "Watch Station Access",
+        "features": ["abyss", "grapple"]
+      },
+      {
+        "name": "Watch Station",
+        "features": [
+          "abyss",
+          "bombSlot",
+          "lore",
+          "morph",
+          "orbCannon",
+          "portal",
+          "spider"
+        ]
+      }
+    ]
+  }
+]
