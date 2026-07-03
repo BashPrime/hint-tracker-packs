@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "type": "root",
+    "content": [
+      {
+        "key": "stks",
+        "type": "pointer"
+      },
+      {
+        "key": "templeGrounds",
+        "type": "pointer"
+      }
+    ]
+  }
+}
