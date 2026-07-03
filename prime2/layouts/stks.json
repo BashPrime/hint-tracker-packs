@@ -3,9 +3,11 @@
     "header": "Sky Temple Keys",
     "borderColor": "oklch(89.7% 0.196 126.665)",
     "type": "array",
-    "autofills": [
-      "locations"
-    ],
+    "autofills": {
+      "location": [
+        "location"
+      ]
+    },
     "content": [
       {
         "name": "Sky Temple Key 1",

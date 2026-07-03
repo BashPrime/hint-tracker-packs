@@ -1,0 +1,91 @@
+{
+  "templeGrounds": {
+    "header": "Temple Grounds",
+    "borderColor": "oklch(71.4% 0.203 305.504)",
+    "type": "array",
+    "content": [
+      {
+        "name": "U-Mos Reward",
+        "type": "hint",
+        "color": "oklch(63.7% 0.237 25.331)",
+        "hintType": "item",
+        "autofills": {
+          "item": [
+            "item"
+          ]
+        }
+      },
+      {
+        "type": "grid",
+        "autofills": {
+          "item": [
+            "item",
+            "feature:item"
+          ]
+        },
+        "content": [
+          [
+            {
+              "name": "Accursed Lake",
+              "type": "hint",
+              "color": "oklch(71.4% 0.203 305.504)",
+              "hintType": "item"
+            },
+            {
+              "name": "Defiled Shrine",
+              "type": "hint",
+              "color": "oklch(71.4% 0.203 305.504)",
+              "hintType": "item"
+            },
+            {
+              "name": "Ing Reliquary",
+              "type": "hint",
+              "color": "oklch(71.4% 0.203 305.504)",
+              "hintType": "item"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "array",
+        "autofills": {
+          "item": [
+            "item",
+            "feature:item"
+          ],
+          "location": [
+            "location",
+            "feature:location"
+          ]
+        },
+        "content": [
+          {
+            "name": "Fortress Transport Access",
+            "color": "oklch(71.4% 0.203 305.504)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Main Energy Controller",
+            "color": "oklch(71.4% 0.203 305.504)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Meeting Grounds",
+            "color": "oklch(71.4% 0.203 305.504)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Path of Eyes",
+            "color": "oklch(71.4% 0.203 305.504)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Transport to Agon Wastes",
+            "color": "oklch(71.4% 0.203 305.504)",
+            "hintType": "itemAndLocation"
+          }
+        ]
+      }
+    ]
+  }
+}
