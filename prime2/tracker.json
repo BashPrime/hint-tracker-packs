@@ -23,5 +23,10 @@
   ],
   "features": [
     "features.json"
+  ],
+  "layout": [
+    "layout/layout.json",
+    "layout/stks.json",
+    "layout/templeGrounds.json"
   ]
 }
