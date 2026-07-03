@@ -1,0 +1,66 @@
+{
+  "stks": {
+    "header": "Sky Temple Keys",
+    "borderColor": "oklch(89.7% 0.196 126.665)",
+    "type": "array",
+    "autofills": [
+      "locations"
+    ],
+    "content": [
+      {
+        "name": "Sky Temple Key 1",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 2",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 3",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 4",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 5",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 6",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 7",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 8",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      },
+      {
+        "name": "Sky Temple Key 9",
+        "type": "hint",
+        "color": "oklch(89.7% 0.196 126.665)",
+        "hintType": "location"
+      }
+    ]
+  }
+}
