@@ -11,7 +11,7 @@
         "hintType": "item",
         "autofills": {
           "item": [
-            "item"
+            "items"
           ]
         }
       },
@@ -19,8 +19,8 @@
         "type": "grid",
         "autofills": {
           "item": [
-            "item",
-            "feature:item"
+            "items",
+            "features:item"
           ]
         },
         "content": [
@@ -50,12 +50,12 @@
         "type": "array",
         "autofills": {
           "item": [
-            "item",
-            "feature:item"
+            "items",
+            "features:item"
           ],
           "location": [
-            "location",
-            "feature:location"
+            "locations",
+            "features:location"
           ]
         },
         "content": [
