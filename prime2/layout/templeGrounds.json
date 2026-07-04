@@ -61,26 +61,31 @@
         "content": [
           {
             "name": "Fortress Transport Access",
+            "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Main Energy Controller",
+            "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Meeting Grounds",
+            "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Path of Eyes",
+            "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Transport to Agon Wastes",
+            "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           }
