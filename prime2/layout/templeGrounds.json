@@ -9,7 +9,7 @@
         "type": "hint",
         "color": "oklch(63.7% 0.237 25.331)",
         "hintType": "item",
-        "autofills": {
+        "comboboxOptions": {
           "item": [
             "items"
           ]
@@ -17,7 +17,7 @@
       },
       {
         "type": "grid",
-        "autofills": {
+        "comboboxOptions": {
           "item": [
             "items",
             "features:item"
@@ -48,7 +48,7 @@
       },
       {
         "type": "array",
-        "autofills": {
+        "comboboxOptions": {
           "item": [
             "items",
             "features:item"
