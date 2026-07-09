@@ -13,6 +13,14 @@
       {
         "key": "agonWastes",
         "type": "pointer"
+      },
+      {
+        "key": "torvusBog",
+        "type": "pointer"
+      },
+      {
+        "key": "sanctuaryFortress",
+        "type": "pointer"
       }
     ]
   }

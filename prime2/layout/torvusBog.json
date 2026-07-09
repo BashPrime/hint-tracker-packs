@@ -1,0 +1,124 @@
+{
+  "torvusBog": {
+    "header": "Torvus Bog",
+    "borderColor": "oklch(84.5% 0.143 164.978)",
+    "type": "array",
+    "content": [
+      {
+        "type": "grid",
+        "content": [
+          [
+            {
+              "name": "Chykka",
+              "type": "hint",
+              "color": "oklch(63.7% 0.237 25.331)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items"]
+              }
+            },
+            {
+              "type": "array",
+              "content": [
+                {
+                  "name": "Key 1",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                },
+                {
+                  "name": "Key 2",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                },
+                {
+                  "name": "Key 3",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "grid",
+        "comboboxOptions": {
+          "item": ["items", "features:item"]
+        },
+        "content": [
+          [
+            {
+              "name": "Dungeon",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item"
+            },
+            {
+              "name": "Poisoned Bog",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "array",
+        "comboboxOptions": {
+          "item": ["items", "features:item"],
+          "location": ["locations", "features:location"]
+        },
+        "content": [
+          {
+            "name": "Catacombs",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Gathering Hall",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Path of Roots",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Torvus Energy Controller",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Training Chamber",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Underground Tunnel",
+            "type": "hint",
+            "color": "oklch(84.5% 0.143 164.978)",
+            "hintType": "itemAndLocation"
+          }
+        ]
+      }
+    ]
+  }
+}

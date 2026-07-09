@@ -24,6 +24,8 @@
     "layout/layout.json",
     "layout/stks.json",
     "layout/templeGrounds.json",
-    "layout/agonWastes.json"
+    "layout/agonWastes.json",
+    "layout/torvusBog.json",
+    "layout/sanctuaryFortress.json"
   ]
 }
