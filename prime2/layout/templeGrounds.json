@@ -7,6 +7,7 @@
       {
         "name": "U-Mos Reward",
         "type": "hint",
+        "image": "images/u-mos.webp",
         "color": "oklch(63.7% 0.237 25.331)",
         "hintType": "item",
         "comboboxOptions": {

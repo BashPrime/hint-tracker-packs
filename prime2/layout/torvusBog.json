@@ -14,28 +14,11 @@
                 {
                   "name": "Chykka",
                   "type": "hint",
+                  "image": "images/chykka.webp",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "item",
                   "comboboxOptions": {
                     "item": ["items"]
-                  }
-                },
-                {
-                  "name": "Dungeon",
-                  "type": "hint",
-                  "color": "oklch(70.2% 0.183 293.541)",
-                  "hintType": "item",
-                  "comboboxOptions": {
-                    "item": ["items", "features:item"]
-                  }
-                },
-                {
-                  "name": "Poisoned Bog",
-                  "type": "hint",
-                  "color": "oklch(70.2% 0.183 293.541)",
-                  "hintType": "item",
-                  "comboboxOptions": {
-                    "item": ["items", "features:item"]
                   }
                 }
               ]
@@ -71,6 +54,31 @@
                   }
                 }
               ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "grid",
+        "content": [
+          [
+            {
+              "name": "Dungeon",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items", "features:item"]
+              }
+            },
+            {
+              "name": "Poisoned Bog",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items", "features:item"]
+              }
             }
           ]
         ]

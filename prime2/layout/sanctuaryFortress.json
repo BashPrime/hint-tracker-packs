@@ -14,28 +14,11 @@
                 {
                   "name": "Quadraxis",
                   "type": "hint",
+                  "image": "images/quadraxis.webp",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "item",
                   "comboboxOptions": {
                     "item": ["items"]
-                  }
-                },
-                {
-                  "name": "Hive Dynamo Works",
-                  "type": "hint",
-                  "color": "oklch(70.2% 0.183 293.541)",
-                  "hintType": "item",
-                  "comboboxOptions": {
-                    "item": ["items", "features:item"]
-                  }
-                },
-                {
-                  "name": "Hive Entrance",
-                  "type": "hint",
-                  "color": "oklch(70.2% 0.183 293.541)",
-                  "hintType": "item",
-                  "comboboxOptions": {
-                    "item": ["items", "features:item"]
                   }
                 }
               ]
@@ -71,6 +54,31 @@
                   }
                 }
               ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "grid",
+        "content": [
+          [
+            {
+              "name": "Hive Dynamo Works",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items", "features:item"]
+              }
+            },
+            {
+              "name": "Hive Entrance",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items", "features:item"]
+              }
             }
           ]
         ]
