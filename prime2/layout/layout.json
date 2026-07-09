@@ -9,6 +9,10 @@
       {
         "key": "templeGrounds",
         "type": "pointer"
+      },
+      {
+        "key": "agonWastes",
+        "type": "pointer"
       }
     ]
   }

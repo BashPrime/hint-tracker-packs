@@ -1,0 +1,79 @@
+{
+  "agonWastes": {
+    "header": "Agon Wastes",
+    "borderColor": "oklch(76.9% 0.188 70.08)",
+    "type": "array",
+    "content": [
+      {
+        "name": "Amorbis",
+        "type": "hint",
+        "color": "oklch(63.7% 0.237 25.331)",
+        "hintType": "item",
+        "comboboxOptions": {
+          "item": ["items"]
+        }
+      },
+      {
+        "type": "grid",
+        "comboboxOptions": {
+          "item": ["items", "features:item"]
+        },
+        "content": [
+          [
+            {
+              "name": "Battleground",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item"
+            },
+            {
+              "name": "Dark Oasis",
+              "type": "hint",
+              "color": "oklch(70.2% 0.183 293.541)",
+              "hintType": "item"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "array",
+        "comboboxOptions": {
+          "item": ["items", "features:item"],
+          "location": ["locations", "features:location"]
+        },
+        "content": [
+          {
+            "name": "Agon Energy Controller",
+            "type": "hint",
+            "color": "oklch(76.9% 0.188 70.08)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Mining Plaza",
+            "type": "hint",
+            "color": "oklch(76.9% 0.188 70.08)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Mining Station A",
+            "type": "hint",
+            "color": "oklch(76.9% 0.188 70.08)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Mining Station B",
+            "type": "hint",
+            "color": "oklch(76.9% 0.188 70.08)",
+            "hintType": "itemAndLocation"
+          },
+          {
+            "name": "Portal Terminal",
+            "type": "hint",
+            "color": "oklch(76.9% 0.188 70.08)",
+            "hintType": "itemAndLocation"
+          }
+        ]
+      }
+    ]
+  }
+}
