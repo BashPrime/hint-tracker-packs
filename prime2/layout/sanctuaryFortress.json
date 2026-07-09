@@ -9,13 +9,36 @@
         "content": [
           [
             {
-              "name": "Quadraxis",
-              "type": "hint",
-              "color": "oklch(63.7% 0.237 25.331)",
-              "hintType": "item",
-              "comboboxOptions": {
-                "item": ["items"]
-              }
+              "type": "array",
+              "content": [
+                {
+                  "name": "Quadraxis",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items"]
+                  }
+                },
+                {
+                  "name": "Hive Dynamo Works",
+                  "type": "hint",
+                  "color": "oklch(70.2% 0.183 293.541)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items", "features:item"]
+                  }
+                },
+                {
+                  "name": "Hive Entrance",
+                  "type": "hint",
+                  "color": "oklch(70.2% 0.183 293.541)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items", "features:item"]
+                  }
+                }
+              ]
             },
             {
               "type": "array",
@@ -48,28 +71,6 @@
                   }
                 }
               ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "grid",
-        "comboboxOptions": {
-          "item": ["items", "features:item"]
-        },
-        "content": [
-          [
-            {
-              "name": "Battleground",
-              "type": "hint",
-              "color": "oklch(70.2% 0.183 293.541)",
-              "hintType": "item"
-            },
-            {
-              "name": "Dark Oasis",
-              "type": "hint",
-              "color": "oklch(70.2% 0.183 293.541)",
-              "hintType": "item"
             }
           ]
         ]

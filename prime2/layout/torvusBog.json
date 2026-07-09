@@ -9,13 +9,36 @@
         "content": [
           [
             {
-              "name": "Chykka",
-              "type": "hint",
-              "color": "oklch(63.7% 0.237 25.331)",
-              "hintType": "item",
-              "comboboxOptions": {
-                "item": ["items"]
-              }
+              "type": "array",
+              "content": [
+                {
+                  "name": "Chykka",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items"]
+                  }
+                },
+                {
+                  "name": "Dungeon",
+                  "type": "hint",
+                  "color": "oklch(70.2% 0.183 293.541)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items", "features:item"]
+                  }
+                },
+                {
+                  "name": "Poisoned Bog",
+                  "type": "hint",
+                  "color": "oklch(70.2% 0.183 293.541)",
+                  "hintType": "item",
+                  "comboboxOptions": {
+                    "item": ["items", "features:item"]
+                  }
+                }
+              ]
             },
             {
               "type": "array",
@@ -48,28 +71,6 @@
                   }
                 }
               ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "grid",
-        "comboboxOptions": {
-          "item": ["items", "features:item"]
-        },
-        "content": [
-          [
-            {
-              "name": "Dungeon",
-              "type": "hint",
-              "color": "oklch(70.2% 0.183 293.541)",
-              "hintType": "item"
-            },
-            {
-              "name": "Poisoned Bog",
-              "type": "hint",
-              "color": "oklch(70.2% 0.183 293.541)",
-              "hintType": "item"
             }
           ]
         ]
