@@ -10,18 +10,13 @@
         "color": "oklch(63.7% 0.237 25.331)",
         "hintType": "item",
         "comboboxOptions": {
-          "item": [
-            "items"
-          ]
+          "item": ["items"]
         }
       },
       {
         "type": "grid",
         "comboboxOptions": {
-          "item": [
-            "items",
-            "features:item"
-          ]
+          "item": ["items", "features:item"]
         },
         "content": [
           [
@@ -36,7 +31,9 @@
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
-            },
+            }
+          ],
+          [
             {
               "name": "Ing Reliquary",
               "type": "hint",
@@ -49,14 +46,8 @@
       {
         "type": "array",
         "comboboxOptions": {
-          "item": [
-            "items",
-            "features:item"
-          ],
-          "location": [
-            "locations",
-            "features:location"
-          ]
+          "item": ["items", "features:item"],
+          "location": ["locations", "features:location"]
         },
         "content": [
           {
