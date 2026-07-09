@@ -28,19 +28,19 @@
             {
               "name": "Accursed Lake",
               "type": "hint",
-              "color": "oklch(71.4% 0.203 305.504)",
+              "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
             },
             {
               "name": "Defiled Shrine",
               "type": "hint",
-              "color": "oklch(71.4% 0.203 305.504)",
+              "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
             },
             {
               "name": "Ing Reliquary",
               "type": "hint",
-              "color": "oklch(71.4% 0.203 305.504)",
+              "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
             }
           ]
