@@ -5,13 +5,52 @@
     "type": "array",
     "content": [
       {
-        "name": "Amorbis",
-        "type": "hint",
-        "color": "oklch(63.7% 0.237 25.331)",
-        "hintType": "item",
-        "comboboxOptions": {
-          "item": ["items"]
-        }
+        "type": "grid",
+        "content": [
+          [
+            {
+              "name": "Amorbis",
+              "type": "hint",
+              "color": "oklch(63.7% 0.237 25.331)",
+              "hintType": "item",
+              "comboboxOptions": {
+                "item": ["items"]
+              }
+            },
+            {
+              "type": "array",
+              "content": [
+                {
+                  "name": "Key 1",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                },
+                {
+                  "name": "Key 2",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                },
+                {
+                  "name": "Key 3",
+                  "type": "hint",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": ["regions"]
+                  }
+                }
+              ]
+            }
+          ]
+        ]
       },
       {
         "type": "grid",
