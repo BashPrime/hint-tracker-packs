@@ -13,6 +13,7 @@
               "content": [
                 {
                   "name": "Chykka",
+                  "code": "chykka",
                   "type": "hint",
                   "image": "images/chykka.webp",
                   "color": "oklch(63.7% 0.237 25.331)",
@@ -28,6 +29,7 @@
               "content": [
                 {
                   "name": "Key 1",
+                  "code": "darkTorvusKey1",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -37,6 +39,7 @@
                 },
                 {
                   "name": "Key 2",
+                  "code": "darkTorvusKey2",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -46,6 +49,7 @@
                 },
                 {
                   "name": "Key 3",
+                  "code": "darkTorvusKey3",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -64,6 +68,7 @@
           [
             {
               "name": "Dungeon",
+              "code": "dungeonIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -73,6 +78,7 @@
             },
             {
               "name": "Poisoned Bog",
+              "code": "poisonedBogIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -92,36 +98,42 @@
         "content": [
           {
             "name": "Catacombs",
+            "code": "catacombs",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Gathering Hall",
+            "code": "gatheringHall",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Path of Roots",
+            "code": "pathOfRoots",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Torvus Energy Controller",
+            "code": "torvusEnergyController",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Training Chamber",
+            "code": "trainingChamber",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Underground Tunnel",
+            "code": "undergroundTunnel",
             "type": "hint",
             "color": "oklch(84.5% 0.143 164.978)",
             "hintType": "itemAndLocation"

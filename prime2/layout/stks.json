@@ -12,54 +12,63 @@
         "content": [
           {
             "name": "Key 1",
+            "code": "stk1",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 2",
+            "code": "stk2",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 3",
+            "code": "stk3",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 4",
+            "code": "stk4",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 5",
+            "code": "stk5",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 6",
+            "code": "stk6",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 7",
+            "code": "stk7",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 8",
+            "code": "stk8",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"
           },
           {
             "name": "Key 9",
+            "code": "stk9",
             "type": "hint",
             "color": "oklch(89.7% 0.196 126.665)",
             "hintType": "location"

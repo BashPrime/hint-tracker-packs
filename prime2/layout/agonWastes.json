@@ -13,6 +13,7 @@
               "content": [
                 {
                   "name": "Amorbis",
+                  "code": "amorbis",
                   "type": "hint",
                   "image": "images/amorbis.webp",
                   "color": "oklch(63.7% 0.237 25.331)",
@@ -28,6 +29,7 @@
               "content": [
                 {
                   "name": "Key 1",
+                  "code": "darkAgonKey1",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -37,6 +39,7 @@
                 },
                 {
                   "name": "Key 2",
+                  "code": "darkAgonKey2",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -46,6 +49,7 @@
                 },
                 {
                   "name": "Key 3",
+                  "code": "darkAgonKey3",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -64,6 +68,7 @@
           [
             {
               "name": "Battleground",
+              "code": "battlegroundIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -73,6 +78,7 @@
             },
             {
               "name": "Dark Oasis",
+              "code": "darkOasisIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -92,30 +98,35 @@
         "content": [
           {
             "name": "Agon Energy Controller",
+            "code": "agonEnergyController",
             "type": "hint",
             "color": "oklch(76.9% 0.188 70.08)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Mining Plaza",
+            "code": "miningPlaza",
             "type": "hint",
             "color": "oklch(76.9% 0.188 70.08)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Mining Station A",
+            "code": "miningStationA",
             "type": "hint",
             "color": "oklch(76.9% 0.188 70.08)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Mining Station B",
+            "code": "miningStationB",
             "type": "hint",
             "color": "oklch(76.9% 0.188 70.08)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Portal Terminal",
+            "code": "portalTerminal",
             "type": "hint",
             "color": "oklch(76.9% 0.188 70.08)",
             "hintType": "itemAndLocation"

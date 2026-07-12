@@ -6,6 +6,7 @@
     "content": [
       {
         "name": "U-Mos Reward",
+        "code": "uMosReward",
         "type": "hint",
         "image": "images/u-mos.webp",
         "color": "oklch(63.7% 0.237 25.331)",
@@ -23,12 +24,14 @@
           [
             {
               "name": "Accursed Lake",
+              "code": "accursedLakeIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
             },
             {
               "name": "Defiled Shrine",
+              "code": "defiledShrineIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
@@ -37,6 +40,7 @@
           [
             {
               "name": "Ing Reliquary",
+              "code": "ingReliquaryIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item"
@@ -53,30 +57,35 @@
         "content": [
           {
             "name": "Fortress Transport Access",
+            "code": "fortressTransportAccess",
             "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Main Energy Controller",
+            "code": "mainEnergyController",
             "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Meeting Grounds",
+            "code": "meetingGrounds",
             "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Path of Eyes",
+            "code": "pathOfEyes",
             "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Transport to Agon Wastes",
+            "code": "transportToAgonWastes",
             "type": "hint",
             "color": "oklch(71.4% 0.203 305.504)",
             "hintType": "itemAndLocation"

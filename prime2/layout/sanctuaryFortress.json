@@ -13,6 +13,7 @@
               "content": [
                 {
                   "name": "Quadraxis",
+                  "code": "quadraxis",
                   "type": "hint",
                   "image": "images/quadraxis.webp",
                   "color": "oklch(63.7% 0.237 25.331)",
@@ -28,6 +29,7 @@
               "content": [
                 {
                   "name": "Key 1",
+                  "code": "ingHiveKey1",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -37,6 +39,7 @@
                 },
                 {
                   "name": "Key 2",
+                  "code": "ingHiveKey2",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -46,6 +49,7 @@
                 },
                 {
                   "name": "Key 3",
+                  "code": "ingHiveKey3",
                   "type": "hint",
                   "color": "oklch(63.7% 0.237 25.331)",
                   "hintType": "location",
@@ -64,6 +68,7 @@
           [
             {
               "name": "Hive Dynamo Works",
+              "code": "hiveDynamoWorksIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -73,6 +78,7 @@
             },
             {
               "name": "Hive Entrance",
+              "code": "hiveEntranceIngCache",
               "type": "hint",
               "color": "oklch(70.2% 0.183 293.541)",
               "hintType": "item",
@@ -92,36 +98,42 @@
         "content": [
           {
             "name": "Hall of Combat Mastery",
+            "code": "hallOfCombatMastery",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Main Gyro Chamber",
+            "code": "mainGyroChamber",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Main Research",
+            "code": "mainResearch",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Sanctuary Energy Controller",
+            "code": "sanctuaryEnergyController",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Sanctuary Entrance",
+            "code": "sanctuaryEntrance",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
           },
           {
             "name": "Watch Station",
+            "code": "watchStation",
             "type": "hint",
             "color": "oklch(74.6% 0.16 232.661)",
             "hintType": "itemAndLocation"
