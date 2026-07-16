@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "id": "prime2-hints",
   "author": "BashPrime",
   "name": "Metroid Prime 2 Hints",
   "gameName": "Metroid Prime 2: Echoes",
-  "description": "Metroid Prime 2 Hint Tracker package",
+  "description": "Keep track of Echoes randomizer's 40+ hints, organized by region! Also included are hints for the keys, temple guardians, keybearer hints, and unhinted items. ",
   "cover": "images/cover.webp",
-  "items": ["items.json"],
+  "items": [
+    "items.json"
+  ],
   "locations": [
     "locations/templeGrounds.json",
     "locations/skyTempleGrounds.json",
@@ -19,7 +21,9 @@
     "locations/sanctuaryFortress.json",
     "locations/ingHive.json"
   ],
-  "features": ["features.json"],
+  "features": [
+    "features.json"
+  ],
   "layout": [
     "layout/layout.json",
     "layout/stks.json",
