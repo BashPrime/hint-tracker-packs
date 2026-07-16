@@ -16,39 +16,26 @@
     "type": "array",
     "content": [
       {
-        "header": "Phazon Suit",
-        "borderColor": "oklch(57.7% 0.245 27.325)",
-        "type": "array",
-        "content": [
-          {
-            "type": "array",
-            "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
-            },
-            "content": [
-              {
-                "name": "",
-                "code": "phazonSuit",
-                "type": "hint",
-                "hintType": "location"
-              }
-            ]
-          }
-        ]
+        "name": "Phazon Suit",
+        "code": "phazonSuit",
+        "color": "oklch(63.7% 0.237 25.331)",
+        "type": "hint",
+        "hintType": "location",
+        "comboboxOptions": {
+          "location": ["locations"]
+        }
       },
       {
         "header": "Chozo Artifacts",
         "borderColor": "#52CDF7",
         "type": "array",
+        "grow": true,
         "content": [
           {
             "type": "array",
+            "grow": true,
             "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
+              "location": ["locations"]
             },
             "content": [
               {
@@ -148,13 +135,10 @@
         "header": "Unhinted Items",
         "type": "unhinted",
         "borderColor": "oklch(57.7% 0.245 27.325)",
+        "grow": true,
         "comboboxOptions": {
-          "item": [
-            "items"
-          ],
-          "location": [
-            "locations"
-          ]
+          "item": ["items"],
+          "location": ["locations"]
         }
       }
     ]
