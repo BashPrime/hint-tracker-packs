@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "id": "prime1-hints",
   "author": "BashPrime",
-  "name": "Metroid Prime",
+  "name": "Metroid Prime Hints",
   "gameName": "N/A",
   "description": "It's prime 1",
   "cover": "images/cover.webp",
@@ -14,5 +14,7 @@
     "locations/tallonOverworld.json"
   ],
   "features": [],
-  "layout": []
+  "layout": [
+    "layout/layout.json"
+  ]
 }
