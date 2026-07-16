@@ -1,6 +1,7 @@
 {
   "stks": {
     "type": "array",
+    "grow": true,
     "content": [
       {
         "header": "Sky Temple Keys",
@@ -10,9 +11,7 @@
           {
             "type": "array",
             "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
+              "location": ["locations"]
             },
             "content": [
               {
@@ -85,16 +84,11 @@
       {
         "header": "Unhinted Items",
         "type": "unhinted",
+        "grow": true,
         "borderColor": "oklch(57.7% 0.245 27.325)",
         "comboboxOptions": {
-          "item": [
-            "items",
-            "features:item"
-          ],
-          "location": [
-            "locations",
-            "features:location"
-          ]
+          "item": ["items", "features:item"],
+          "location": ["locations", "features:location"]
         }
       }
     ]

@@ -3,6 +3,7 @@
     "header": "Sanctuary Fortress",
     "borderColor": "oklch(74.6% 0.16 232.661)",
     "type": "array",
+    "grow": true,
     "content": [
       {
         "type": "grid",
@@ -91,6 +92,7 @@
       },
       {
         "type": "array",
+        "grow": true,
         "comboboxOptions": {
           "item": ["items", "features:item"],
           "location": ["locations", "features:location"]

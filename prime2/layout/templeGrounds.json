@@ -3,6 +3,7 @@
     "header": "Temple Grounds",
     "borderColor": "oklch(71.4% 0.203 305.504)",
     "type": "array",
+    "grow": true,
     "content": [
       {
         "name": "U-Mos Reward",
@@ -50,6 +51,7 @@
       },
       {
         "type": "array",
+        "grow": true,
         "comboboxOptions": {
           "item": ["items", "features:item"],
           "location": ["locations", "features:location"]
