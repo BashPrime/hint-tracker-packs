@@ -18,6 +18,7 @@
       {
         "name": "Phazon Suit",
         "code": "phazonSuit",
+        "image": "images/phazonSuit.webp",
         "color": "oklch(63.7% 0.237 25.331)",
         "borderColor": "oklch(63.7% 0.237 25.331)",
         "type": "hint",
