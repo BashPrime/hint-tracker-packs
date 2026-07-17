@@ -2,7 +2,7 @@
   "torvusBog": {
     "header": "Torvus Bog",
     "borderColor": "oklch(84.5% 0.143 164.978)",
-    "type": "array",
+    "type": "group",
     "grow": true,
     "content": [
       {

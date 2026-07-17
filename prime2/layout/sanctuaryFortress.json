@@ -2,7 +2,7 @@
   "sanctuaryFortress": {
     "header": "Sanctuary Fortress",
     "borderColor": "oklch(74.6% 0.16 232.661)",
-    "type": "array",
+    "type": "group",
     "grow": true,
     "content": [
       {
