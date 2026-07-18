@@ -6,15 +6,13 @@
   "name": "Metroid Prime Hints",
   "gameName": "N/A",
   "description": "It's prime 1",
+  "defaultWindowSize": {
+    "width": 640,
+    "height": 654
+  },
   "cover": "images/cover.webp",
-  "items": [
-    "items.json"
-  ],
-  "locations": [
-    "locations/tallonOverworld.json"
-  ],
+  "items": ["items.json"],
+  "locations": ["locations/tallonOverworld.json"],
   "features": [],
-  "layout": [
-    "layout/layout.json"
-  ]
+  "layout": ["layout/layout.json"]
 }

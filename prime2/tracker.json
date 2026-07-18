@@ -7,8 +7,8 @@
   "gameName": "Metroid Prime 2: Echoes",
   "description": "Keep track of Echoes randomizer's 40+ hints, organized by region! Also included are hints for the keys, temple guardians, keybearer hints, and unhinted items.",
   "defaultWindowSize": {
-    "width": 1222,
-    "height": 812
+    "width": 1200,
+    "height": 768
   },
   "cover": "images/cover.webp",
   "items": ["items.json"],
