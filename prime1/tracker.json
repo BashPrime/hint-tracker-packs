@@ -7,8 +7,8 @@
   "gameName": "N/A",
   "description": "It's prime 1",
   "defaultWindowSize": {
-    "width": 640,
-    "height": 654
+    "width": 660,
+    "height": 730
   },
   "cover": "images/cover.webp",
   "items": ["items.json"],
