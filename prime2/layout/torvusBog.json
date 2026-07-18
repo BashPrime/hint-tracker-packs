@@ -4,6 +4,7 @@
     "borderColor": "oklch(84.5% 0.143 164.978)",
     "type": "group",
     "grow": true,
+    "gap": 2,
     "content": [
       {
         "type": "grid",
