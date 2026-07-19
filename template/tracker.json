@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "id": "pack-template",
+  "author": "BashPrime",
+  "name": "Pack Template",
+  "gameName": "N/A",
+  "description": "Build your own pack with this as a starting point!",
+  "items": [],
+  "locations": [],
+  "features": [],
+  "layout": [
+    "layout/layout.json"
+  ]
+}

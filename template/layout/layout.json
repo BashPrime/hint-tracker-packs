@@ -1,0 +1,63 @@
+{
+  "layout": {
+    "type": "root",
+    "content": [
+      {
+        "key": "column",
+        "type": "pointer"
+      }
+    ]
+  },
+  "column": {
+    "type": "array",
+    "gap": 2,
+    "content": [
+      {
+        "header": "Keys",
+        "borderColor": "#52CDF7",
+        "type": "group",
+        "comboboxOptions": {
+          "location": [
+            "locations"
+          ]
+        },
+        "content": [
+          {
+            "name": "Key 1",
+            "code": "key1",
+            "type": "hint",
+            "color": "#52CDF7",
+            "hintType": "location"
+          },
+          {
+            "name": "Key 2",
+            "code": "key2",
+            "type": "hint",
+            "color": "#52CDF7",
+            "hintType": "location"
+          },
+          {
+            "name": "Key 3",
+            "code": "key3",
+            "type": "hint",
+            "color": "#52CDF7",
+            "hintType": "location"
+          }
+        ]
+      },
+      {
+        "type": "unhinted",
+        "header": "Unhinted Items",
+        "borderColor": "oklch(57.7% 0.245 27.325)",
+        "comboboxOptions": {
+          "item": [
+            "items"
+          ],
+          "location": [
+            "locations"
+          ]
+        }
+      }
+    ]
+  }
+}
