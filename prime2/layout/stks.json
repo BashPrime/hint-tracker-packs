@@ -87,7 +87,6 @@
         "type": "unhinted",
         "header": "Unhinted Items",
         "borderColor": "oklch(57.7% 0.245 27.325)",
-        "grow": true,
         "comboboxOptions": {
           "item": [
             "items"
