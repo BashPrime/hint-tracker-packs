@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Car Keys",
+    "code": "carKeys",
+    "type": "progression",
+    "features": [
+      "key"
+    ]
+  },
+  {
+    "name": "Laptop",
+    "code": "laptop",
+    "type": "progression",
+    "features": [
+      "technology"
+    ]
+  },
+  {
+    "name": "Smartphone",
+    "code": "smartphone",
+    "type": "progression",
+    "features": [
+      "technology",
+      "phone"
+    ]
+  },
+  {
+    "name": "Wallet",
+    "code": "wallet",
+    "type": "progression",
+    "features": [
+      "moneyHolder"
+    ]
+  },
+  {
+    "name": "Work Badge",
+    "code": "workBadge",
+    "type": "progression",
+    "features": [
+      "work"
+    ]
+  }
+]

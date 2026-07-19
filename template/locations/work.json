@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Work",
+    "children": [
+      {
+        "name": "Cubicle",
+        "features": [
+          "focus"
+        ]
+      },
+      {
+        "name": "Conference Room",
+        "features": [
+          "focus"
+        ]
+      },
+      {
+        "name": "Breakroom",
+        "features": [
+          "rest"
+        ]
+      },
+      {
+        "name": "Parking Lot",
+        "features": [
+          "liminal"
+        ]
+      },
+      {
+        "name": "Boss's Office",
+        "features": [
+          "focus"
+        ]
+      }
+    ]
+  }
+]

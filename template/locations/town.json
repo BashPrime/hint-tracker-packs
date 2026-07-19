@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Town",
+    "children": [
+      {
+        "name": "City Hall",
+        "features": [
+          "government",
+          "publicService"
+        ]
+      },
+      {
+        "name": "Police Station",
+        "features": [
+          "government",
+          "publicService"
+        ]
+      },
+      {
+        "name": "Library",
+        "features": [
+          "focus",
+          "publicService",
+          "rest",
+          "education"
+        ]
+      },
+      {
+        "name": "Gym",
+        "features": [
+          "focus",
+          "exercise"
+        ]
+      },
+      {
+        "name": "School",
+        "features": [
+          "focus",
+          "education"
+        ]
+      },
+      {
+        "name": "University",
+        "features": [
+          "focus",
+          "education"
+        ]
+      },
+      {
+        "name": "Restaurant",
+        "features": [
+          "rest"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Key",
+    "code": "key",
+    "type": "feature:item"
+  },
+  {
+    "name": "Technology",
+    "code": "technology",
+    "type": "feature:item"
+  },
+  {
+    "name": "Money Holder",
+    "code": "moneyHolder",
+    "type": "feature:item"
+  }
+]

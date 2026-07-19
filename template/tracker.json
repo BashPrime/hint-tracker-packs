@@ -6,8 +6,18 @@
   "name": "Pack Template",
   "gameName": "N/A",
   "description": "Build your own pack with this as a starting point!",
-  "items": [],
-  "locations": [],
+  "defaultWindowSize": {
+    "width": 400,
+    "height": 600
+  },
+  "items": [
+    "items.json"
+  ],
+  "locations": [
+    "locations/home.json",
+    "locations/town.json",
+    "locations/work.json"
+  ],
   "features": [],
   "layout": [
     "layout/layout.json"

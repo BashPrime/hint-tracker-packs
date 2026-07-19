@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Home",
+    "children": [
+      {
+        "name": "Entry",
+        "features": [
+          "liminal"
+        ]
+      },
+      {
+        "name": "Living Room",
+        "features": [
+          "rest"
+        ]
+      },
+      {
+        "name": "Bedroom",
+        "features": [
+          "rest"
+        ]
+      },
+      {
+        "name": "Bathroom",
+        "features": [
+          "privacy"
+        ]
+      },
+      {
+        "name": "Hallway",
+        "features": [
+          "liminal"
+        ]
+      },
+      {
+        "name": "Attic",
+        "features": [
+          "crawlspace"
+        ]
+      },
+      {
+        "name": "Basement",
+        "features": [
+          "crawlspace"
+        ]
+      }
+    ]
+  }
+]
