@@ -11,7 +11,9 @@
           {
             "type": "array",
             "comboboxOptions": {
-              "location": ["locations"]
+              "location": [
+                "locations"
+              ]
             },
             "content": [
               {
@@ -82,20 +84,18 @@
         ]
       },
       {
+        "type": "unhinted",
         "header": "Unhinted Items",
-        "type": "group",
         "borderColor": "oklch(57.7% 0.245 27.325)",
         "grow": true,
-        "content": [
-          {
-            "type": "unhinted",
-            "grow": true,
-            "comboboxOptions": {
-              "item": ["items"],
-              "location": ["locations"]
-            }
-          }
-        ]
+        "comboboxOptions": {
+          "item": [
+            "items"
+          ],
+          "location": [
+            "locations"
+          ]
+        }
       }
     ]
   }

@@ -18,7 +18,9 @@
     "type": "group",
     "grow": true,
     "comboboxOptions": {
-      "location": ["locations"]
+      "location": [
+        "locations"
+      ]
     },
     "content": [
       {
@@ -124,26 +126,26 @@
             "type": "hint",
             "hintType": "location",
             "comboboxOptions": {
-              "location": ["regions"]
+              "location": [
+                "regions"
+              ]
             }
           }
         ]
       },
       {
-        "type": "group",
+        "type": "unhinted",
         "header": "Unhinted Items",
         "borderColor": "oklch(57.7% 0.245 27.325)",
         "grow": true,
-        "content": [
-          {
-            "type": "unhinted",
-            "grow": true,
-            "comboboxOptions": {
-              "item": ["items"],
-              "location": ["locations"]
-            }
-          }
-        ]
+        "comboboxOptions": {
+          "item": [
+            "items"
+          ],
+          "location": [
+            "locations"
+          ]
+        }
       }
     ]
   }
