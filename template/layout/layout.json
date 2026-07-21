@@ -15,7 +15,7 @@
       {
         "header": "Keys",
         "borderColor": "oklch(62.7% 0.265 303.9)",
-        "type": "group",
+        "type": "array",
         "comboboxOptions": {
           "location": [
             "regions"

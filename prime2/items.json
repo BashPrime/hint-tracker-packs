@@ -386,5 +386,11 @@
     "code": "pbExp",
     "type": "filler",
     "features": ["chozo", "morphBallRelated"]
+  },
+  {
+    "name": "Dead",
+    "code": "dead",
+    "type": "filler",
+    "features": []
   }
 ]

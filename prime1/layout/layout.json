@@ -15,7 +15,7 @@
   "col1": {
     "header": "Chozo Artifacts",
     "borderColor": "#52CDF7",
-    "type": "group",
+    "type": "array",
     "grow": true,
     "comboboxOptions": {
       "location": [

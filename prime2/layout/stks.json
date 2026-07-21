@@ -6,7 +6,7 @@
       {
         "header": "Sky Temple Keys",
         "borderColor": "oklch(89.7% 0.196 126.665)",
-        "type": "group",
+        "type": "array",
         "content": [
           {
             "type": "array",

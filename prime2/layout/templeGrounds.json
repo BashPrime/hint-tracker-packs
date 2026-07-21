@@ -2,7 +2,7 @@
   "templeGrounds": {
     "header": "Temple Grounds",
     "borderColor": "oklch(71.4% 0.203 305.504)",
-    "type": "group",
+    "type": "array",
     "grow": true,
     "gap": 2,
     "content": [

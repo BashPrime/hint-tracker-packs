@@ -2,7 +2,7 @@
   "agonWastes": {
     "header": "Agon Wastes",
     "borderColor": "oklch(76.9% 0.188 70.08)",
-    "type": "group",
+    "type": "array",
     "grow": true,
     "gap": 2,
     "content": [
